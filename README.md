@@ -2,4 +2,4 @@
 
 Project website for the paper *SkilledVLA: Integrating Classical Skills into Vision-Language-Action Models*.
 
-Website: https://rumilog.github.io/SkilledVLA/
+Website: https://rumilog.github.io/skilledvla/
